@@ -20,6 +20,7 @@ Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais d
 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ☑️ Desenhado para se parecer com uma página de autenticação por chek-in.
 
+<br>
 
 ## Features 
 - [x] Alerta visual de captura de Credencial por LED.
