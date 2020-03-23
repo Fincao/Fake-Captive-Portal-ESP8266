@@ -15,4 +15,18 @@
 Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Facebook 🌐.
 </p>
 
+### Imagens
+<br>
+
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ☑️ Desenhado para se parecer com uma página de autenticação por chek-in.
+
+
+## Features 
+- [x] Alerta visual de captura de Credencial por LED.
+- [x] Validação de formulario para ser preenchido corretamente.
+- [x] IOS auto-popup login.
+- [x] Login de ADM para visualzar as Credenciais .
+
+<br>
+<br>
 
