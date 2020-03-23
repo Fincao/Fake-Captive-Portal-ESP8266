@@ -30,6 +30,7 @@ Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais d
 - [x] Validação de formulário para ser preenchido corretamente.
 - [x] IOS auto-popup login.
 - [x] Login de ADM para visualzar as Credenciais.
+- [x] Até 8 conexões simultâneas.
 
 <br>
 <br>
