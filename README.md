@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Facebook <img height="16" width="16" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/facebook.svg" />.
+Portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Facebook <img height="16" width="16" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/facebook.svg" />.
 </p>
 
 ## Imagens:
@@ -21,7 +21,7 @@ Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais d
  <img alt="digispark" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/captive-print.jpg" width="800px">
 </p>
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ☑️ Desenhado para se parecer com uma página de autenticação por chek-in.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ☑️ Desenhado para se parecer com uma página de autenticação por chek-in.
 
 <br>
 
