@@ -16,7 +16,10 @@ Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais d
 </p>
 
 ## Imagens:
-<br>
+
+<p align="center">
+ <img alt="digispark" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/captive-print.jpg" width="800px">
+</p>
 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ☑️ Desenhado para se parecer com uma página de autenticação por chek-in.
 
