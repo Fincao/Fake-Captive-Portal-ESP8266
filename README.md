@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Facebook 🌐.
+Falso portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Facebook <img height="16" width="16" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/facebook.svg" />.
 </p>
 
 ### Imagens
