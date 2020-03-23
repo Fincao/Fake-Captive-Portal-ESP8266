@@ -8,7 +8,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![code with hearth by William](https://img.shields.io/badge/<%5C>%20with%20♥%20by-Will-red)](https://github.com/Fincao)
-![GitHub repo size](https://img.shields.io/github/repo-size/Fincao/Fake-Captive-Portal-ESP8266)
+![conexões simultaneas](https://img.shields.io/badge/8%20single-connection-blueviolet?logo=rss&style=flat)
 
 <br>
 <p align="center">
