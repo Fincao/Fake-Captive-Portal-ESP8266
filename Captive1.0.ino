@@ -123,7 +123,6 @@ void setup() {
   webServer.begin();
   pinMode(BUILTIN_LED, OUTPUT);
   digitalWrite(BUILTIN_LED, HIGH);
-
 }
 
 void loop() { 
