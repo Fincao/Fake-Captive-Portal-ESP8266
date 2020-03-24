@@ -6,7 +6,7 @@
 #include <ESP8266WebServer.h>
 
 // Configuração do "AP".
-#define SSID_NAME "McCafé - Grátis."   //Nome da rede do WI-FI.
+#define SSID_NAME "McCafé - Grátis."   //Nome da rede do WI-FI , McCafé ótimo exemplo kkkkkkkk.
 #define TITLE "McCafé"
 #define SUBTITLE "facebook."
 #define BODY "Faça check-in para WIFI Grátis."
