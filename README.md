@@ -5,7 +5,7 @@
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![code with hearth by William](https://img.shields.io/badge/<%5C>%20with%20♥%20by-Will-red)](https://github.com/Fincao)
 ![conexões simultaneas](https://img.shields.io/badge/8%20single-connection-blueviolet?logo=rss&style=flat)
@@ -33,5 +33,7 @@ Portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Face
 - [x] Até 8 conexões simultâneas.
 
 <br>
+
+> Use por sua conta e risco.
 <br>
 
