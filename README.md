@@ -35,5 +35,11 @@ Portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Face
 <br>
 
 > Use por sua conta e risco.
+
 <br>
 
+##### Busco melhorar meus conhecimentos a toda hora, e para isso bebo muuuito café 😎 .
+
+<br>
+
+<p href="https://www.buymeacoffee.com/oMW0fT8" target="_blank"><img alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="217px"></p>
