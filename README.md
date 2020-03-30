@@ -44,7 +44,7 @@ fincao | 1425 | -
 
 <br>
 
-> Os codigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a si ou a terceiros. Use por sua conta e risco.
+> Os codigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a si ou a terceiros. Use por sua conta e risco ![badass](https://img.shields.io/badge/Badass-Code-black?logo=Swagger&style=flat).
 
 <br>
 
