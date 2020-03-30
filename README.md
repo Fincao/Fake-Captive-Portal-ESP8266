@@ -34,7 +34,7 @@ Portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Face
 
 <br>
 
-> Use por sua conta e risco.
+> Os codigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a terceiros. Use por sua conta e risco.
 
 <br>
 
