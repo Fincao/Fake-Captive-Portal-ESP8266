@@ -30,7 +30,7 @@ Portal cativo utilizando microcontrolador ESP8266 para obter credenciais do Face
 - [x] Validação de formulário para ser preenchido corretamente.
 - [x] IOS auto-popup login.
 - [x] Login de ADM para visualzar as credenciais.
-- [x] Até 8 conexões simultâneas.
+- [x] Até 8 conexões simultâneas (limitação de hadware).
 
 <br>
 
